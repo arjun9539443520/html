@@ -1,0 +1,47 @@
+body{
+    background-image: url("interior.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin:0;
+}
+
+ul{
+    float:right
+    
+}
+
+ul li{
+    display:inline-block;
+    border: solid 1px transparent     ;
+    color:white;
+    padding:15px;
+   
+}
+
+ul li a{
+    text-decoration: none;
+    color:white; 
+    text-transform: uppercase;
+    padding: 5px;
+
+
+}
+
+ul li a:hover{
+    background-color:white;
+    color:black;
+    border:white;
+    padding: 15px;
+}
+.wh{
+    margin:0;
+}
+    div{
+        text-align: center;
+        text-transform: capitalize;
+        color: whitesmoke;
+    }
+
+    .div2{
+        color:brown
+    }
